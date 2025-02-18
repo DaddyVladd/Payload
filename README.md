@@ -21,6 +21,7 @@ You'll need to install the dependencies if you haven't already. You'll also need
 2.  **Installing Dependencies:**
     *   If you've downloaded the files (e.g., from GitHub or Discord), navigate into the project directory in your terminal.
     *   Run the command: `npm install`  This will install all necessary dependencies defined in `package.json`.
+    *   run the command: `npm install inquirer@8.0.0` This will install inquirer into the proejct directory
 
 3.  **Creating an Executable (Optional):**
     *   To create an executable for easier running (no need for command-line `node` calls):
