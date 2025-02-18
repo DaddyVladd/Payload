@@ -1,0 +1,34 @@
+{
+  "name": "payload",
+  "version": "1.4",
+  "main": "payload.js",
+  "bin": {
+    "payload": "payload.js"
+  },
+  "scripts": {
+    "start": "node payload.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "utility"
+  ],
+  "author": "VladF4",
+  "license": "ISC",
+  "description": "A Discord utility application.",
+  "pkg": {
+    "targets": [
+      "node18-win-x64"
+    ],
+    "icon": "assets/icon.ico"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "fs": "^0.0.1-security",
+    "glob": "^10.4.5",
+    "inquirer": "^8.0.0",
+    "path": "^0.12.7",
+    "readline": "^1.3.0"
+  }
+}
