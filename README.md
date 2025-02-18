@@ -83,7 +83,7 @@ You'll need to install the dependencies if you haven't already. You'll also need
 Contributions are welcome! You can contribute in the following ways:
 
 *   **GitHub:** Open issues to report bugs, suggest features, or request improvements. Submit pull requests with code changes.
-*   **Discord:**  Engage in discussions and share ideas in the forum section of my Discord server (Discord name: VladF4).
+*   **Discord:**  Engage in discussions and share ideas in the forum section of my Discord server (Discord link: https://discord.gg/gAuz5Y8rVZ).
 
 ## License
 
