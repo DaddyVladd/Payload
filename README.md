@@ -15,7 +15,7 @@ You'll need to install the dependencies if you haven't already. You'll also need
 1.  **Prerequisites:**
     *   Node.js (version 18.20.6)
     *   npm (comes with Node.js)
-    *   inquirer Version 8.0.0
+    *   inquirer (version 8.0.0)
     *   A Discord Bot Token (you'll create one through the Discord Developer Portal - see Setup)
 
 2.  **Installing Dependencies:**
